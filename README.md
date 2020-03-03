@@ -6,7 +6,7 @@ Faça parte do nosso time inscreva-se em nosso [Processo Seletivo](www.desenvolv
 ##  A EMPRESA
 A Ewave do Brasil Tecnologia, desenvolvimento e integração de sistemas. A Ewave do Brasil faz parte do Grupo Israelense Ewave. Fundado em 1999, o Grupo possui cerca de 18 empresas nas áreas de tecnologia, medicina e imobiliário. No campo da tecnologia, as empresas são especializadas em software, integração e hardware nas áreas.
 
-:point_right: [Vagas Disponiveis](www.desenvolvedortjmt.ewave.com.br)
+:point_right: [Vagas Disponiveis](https://desenvolvedortjmt.ewave.com.br)
 
 
 ## Processo Seletivo
