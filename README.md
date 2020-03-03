@@ -1,4 +1,4 @@
-<img src="https://www.ewave.com.br/wp-content/uploads/2019/10/logo.png " width="127px" height="127px" align="left"/>
+<img src="https://www.ewave.com.br/wp-content/themes/ewave/images/ewave_logo_form.png" width="127px" height="127px" align="left"/>
 
 # Venha para o Ewave do Brasil
 Faça parte do nosso time inscreva-se em nosso [Processo Seletivo](www.desenvolvedortjmt.ewave.com.br)
@@ -21,7 +21,7 @@ Abaixo temos alguns pontos que deverão ser seguidos:
  
  > Exemplo de criação da Issue
 
-<img src="./imagens/exemplo_issue.PNG " alt="Exemplo de criação da Issue"/> 
+<img src="./imagens/exemplo_issue.PNG " alt="Exemplo de criação da Issue" align="center"/> 
 
 ## Avaliação
 Para avaliarmos os usaremos três pilares:
