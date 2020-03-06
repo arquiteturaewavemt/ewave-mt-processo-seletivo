@@ -37,15 +37,16 @@ Para avaliarmos os usaremos três pilares:
 
 3. Requisitos Tecnológicos
 
-   O que buscamos em um **Desenvolvedor Back-End**
+   O que buscamos em um 
    
-   **C#**
+   **Desenvolvedor Back-End C#**   
    * .NET Core **(Obrigatório)**
    
-   **Java**
+   **Desenvolvedor Back-End Java**
     * JavaEE **(Obrigatório)**
     * Maven ou Gradle **(Obrigatório)**
    
+   Em ambos:
    
    * Testes de Unidade **(Obrigatório)**
    * Conteinerização
