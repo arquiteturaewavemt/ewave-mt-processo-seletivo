@@ -26,7 +26,7 @@ Abaixo temos alguns pontos que deverão ser seguidos:
 Para avaliarmos os usaremos três pilares:
 1. Documentação do projeto readme/Swagger.
 
-    Acerca das decisões que você tomou para sua solução, mesmo nos casos em que você não tenha realizado tudo que pretendia, pode citar qual era o objetivo final e relacione com o que você conseguiu entregar no prazo e o porquê.
+    Acerca das decisões que você tomou para sua solução, **mesmo nos casos em que você não tenha realizado tudo que pretendia, pode citar qual era o objetivo final e relacione com o que você conseguiu entregar no prazo e o porquê**.
     Documentações arquiteturais também são importantes, estas podem ser feitas inclusive no próprio código fonte para facilitar com o Swagger.
   
 2. Critérios de avaliação
