@@ -13,9 +13,9 @@ A Ewave do Brasil Tecnologia, desenvolvimento e integração de sistemas. A Ewav
 Abaixo temos alguns pontos que deverão ser seguidos:
 
  1. Escolher um tema para implementação **(Favo de Mel, Livraria, Gerenciamento de Eventos)**
- 2. Escolher uma das vagas disponíveis **(Senior, Pleno II, Pleno I)** 
- 3. Criar o repositorio no seu github com o seguinte padrão `(ewave-<tema>-<vaga>)`
- 4. Abrir uma [`ISSUE`](https://github.com/douglas-tsc/ewave-mt-processo-seletivo/issues), com o mesmo Titulo do Respositorio _(Vide Item 3)_,
+ 2. Escolher uma das vagas disponíveis **(Sênior, Pleno II, Pleno I)** 
+ 3. Criar o repositório no seu github com o seguinte padrão `(ewave-<tema>-<vaga>)`
+ 4. Abrir uma [`ISSUE`](https://github.com/douglas-tsc/ewave-mt-processo-seletivo/issues), com o mesmo Titulo do Respositório _(Vide Item 3)_,
  adicionando o link do repositório criado.
  
  > Exemplo de criação da Issue
